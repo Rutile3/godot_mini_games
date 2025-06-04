@@ -1,1 +1,1 @@
-# godot_mini_game
+# godot_mini_games
